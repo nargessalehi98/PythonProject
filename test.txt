@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 This is a test!
+=======
+This is a test!
+Trying to merge a single commit :|.
+Trying to merge a single commit :|.
+Trying to merge a single commit :|.
+>>>>>>> 0b9b742... Add third line
