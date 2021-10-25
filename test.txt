@@ -1,3 +1,5 @@
 This is a test!
 Trying to merge a single commit :|.
 Trying to merge a single commit :|.
+Trying to merge a single commit :|.
+
